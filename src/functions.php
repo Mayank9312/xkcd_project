@@ -11,7 +11,7 @@ require_once __DIR__ . '/PHPMailer/Exception.php';
 
 // Gmail App Email
 $senderEmail = "datahandling45@gmail.com";
-$senderPassword = "bdrdeeejvwhznwnq";  // ✅ App Password without spaces
+$senderPassword = "YOUR_APP_PASSWORD_HERE";  // ✅ App Password without spaces
 
 // ✅ Generate 6-digit verification code
 function generateVerificationCode() {
